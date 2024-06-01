@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Leandro 👋
 
-<!--
-**leostera/leostera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and product manager, currently PMing the OCaml Build System team at Tarides.
 
-Here are some ideas to get you started:
+But since this is Github, I'll focus on the code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy writing functional programming languages like Erlang, Elixir, OCaml, ReScript, and Rust. And I've used them to write all sorts of software in the last decade: data pipelines, distributed systems, WYSIWIG editors, compilers, dev tools, and all sorts of SaaS stuff.
+
+In the past I've worked at companies like Klarna and Spotify, and many startups.
+
+Some of my notable work is:
+
+* [Caramel](https://github.com/leostera/caramel) – a compiler to run OCaml on the Erlang VM
+* [Riot](https://github.com/riot-ml/riot) – an Erlang-style runtime for OCaml
+* [tldr.jsx](https://github.com/leostera/tld.jsx) – the first official tldr-pages project web client (now deprecated)
