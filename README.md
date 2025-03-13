@@ -1,6 +1,6 @@
 ## Hi there, I'm Leandro 👋
 
-I'm a software engineer and product manager, currently PMing the OCaml Build System team at Tarides.
+I'm a software engineer and product manager, currently PMing the OCaml Platform at Tarides.
 
 But since this is Github, I'll focus on the code.
 
