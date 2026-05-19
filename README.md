@@ -1,15 +1,12 @@
-## Hi there, I'm Leandro 👋
-
-I'm a software engineer and technical product manager.
-
-But since this is Github, I'll focus on the code.
+## Hi there, I'm Leo 👋
 
 I enjoy writing functional programming languages like Erlang, Elixir, OCaml, ReScript, and Rust. And I've used them to write all sorts of software in the last decade: data pipelines, distributed systems, WYSIWIG editors, compilers, dev tools, and all sorts of SaaS stuff.
 
 In the past I've worked at companies like Klarna and Spotify, and many startups.
 
-Some of my notable work is:
+I'm also super into the actor-model and type-safety, as shown by some of my work:
 
+* [Riot](https://github.com/leostera/riot-lib) – a multi-core type-safe actor runtime for OCaml 5
 * [Caramel](https://github.com/leostera/caramel) – a compiler to run OCaml on the Erlang VM
-* [Riot](https://github.com/riot-ml/riot) – an Erlang-style runtime for OCaml
-* [tldr.jsx](https://github.com/leostera/tld.jsx) – the first official tldr-pages project web client (now deprecated)
+* [LAM](https://github.com/leostera/lam) – a lightweight actor vm for native and the web
+* [ReActor](https://github.com/leostera/reactor) – an implementation of Gul Agha's actor model for ReasonML & OCaml 4
