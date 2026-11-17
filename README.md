@@ -1,6 +1,6 @@
 ## Hi there, I'm Leo 👋
 
-I'm a software engineer working on Artifacts at @cloudflare in London 🇬🇧.
+I'm a software engineer working on Artifacts at [@cloudflare](https://github.com/cloudflare) in London 🇬🇧.
 
 These days I build almost exclusively with AI, using [Axo](https://github.com/leostera/axo), my own distributed harness, and Pi.
 
@@ -15,7 +15,7 @@ Lately I've been working on tools for my clankers to ship better software:
 
 **Before AI**, I enjoyed handwriting functional programming languages like Erlang, Elixir, OCaml, ReScript, and Rust. And I've used them to write all sorts of software in the last decade: data pipelines, distributed systems, WYSIWIG editors, compilers, dev tools, and all sorts of SaaS stuff.
 
-In the past I've worked at companies like @klarna, @spotify, @walnutio, @erlangsolutions, @clevertech, and many startups!
+In the past I've worked at companies like [@klarna](https://github.com/klarna), [@spotify](https://github.com/spotify), [@walnutio](https://github.com/walnutio), [@erlangsolutions](https://github.com/erlangsolutions), [@clevertech](https://github.com/clevertech), and many startups!
 
 I'm also still super into the actor-model and type-safety, as shown by some of my work:
 
